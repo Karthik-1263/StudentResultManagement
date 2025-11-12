@@ -1,0 +1,2 @@
+1263,karthik,maths:89/100;science:77/100,1263
+1242,shanmuk,maths:99/100;science:100/100,1242
